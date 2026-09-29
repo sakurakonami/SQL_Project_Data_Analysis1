@@ -32,4 +32,14 @@ The data reveals an interesting pattern: the highest-paying skills are not limit
 PySpark leads the ranking with an average salary of $208,172, followed by Bitbucket at $189,155. These results suggest that the highest-paying opportunities in this dataset are associated with technical capabilities that extend beyond basic reporting and visualization.
 
 The following analysis breaks down the salary rankings, identifies key trends, and highlights what these findings mean for someone pursuing a career in data analytics.<img width="966" height="522" alt="image" src="https://github.com/user-attachments/assets/207180b5-0c64-4fd9-8c2c-1fd6e689eae1" />
+Key observations
 
+PySpark is the clear leader, with an average salary of $208,172, approximately $19,000 higher than the second-ranked skill.
+
+Bitbucket is the only other skill exceeding $180,000.
+
+Couchbase and Watson share third place at $160,515.
+
+The majority of the listed skills fall between $120,000 and $160,000.
+
+Even the lowest-ranked skill, MicroStrategy, is associated with an average salary above $120,000.
