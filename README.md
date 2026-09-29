@@ -74,3 +74,12 @@ Data analyst roles encompass a broad technical skill set. Programming, visualiza
 
 The most useful career insights come from considering salary and demand together. A skill's average salary alone does not show how frequently employers request it or how many opportunities are available.
 
+Key Findings: Most In-Demand Data Analyst Skills
+
+The analysis of the top 25 most in-demand data analyst skills revealed that Python and Tableau lead the job market, appearing in 236 and 230 job postings, respectively. R followed with 148 postings, highlighting the continued importance of programming, statistical analysis, and data visualization in analytical roles.
+
+In terms of compensation, Go ranked highest with an average salary of $115,320, followed by Confluence at $114,210 and Hadoop at $113,193. Interestingly, the most frequently requested skills did not necessarily offer the highest average salaries. Python, despite leading demand, had an average salary of $101,397, while several less frequently requested technologies, including Snowflake, Azure, and BigQuery, were associated with higher average compensation.
+
+Another notable finding was the representation of cloud and data warehousing technologies, such as Snowflake, AWS, Azure, and BigQuery, among both frequently requested and higher-paying skills. This suggests that employers value a combination of analytical expertise and knowledge of modern data infrastructure.
+
+Overall, the findings highlight the importance of balancing skill demand with salary potential when evaluating career opportunities in data analytics. While Python and Tableau remain prominent foundational skills, cloud platforms, data engineering tools, and specialized programming languages also feature in higher-paying positions. These findings represent associations within the dataset rather than guaranteed salary outcomes for individual skills.
