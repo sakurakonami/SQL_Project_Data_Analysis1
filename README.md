@@ -43,3 +43,34 @@ Couchbase and Watson share third place at $160,515.
 The majority of the listed skills fall between $120,000 and $160,000.
 
 Even the lowest-ranked skill, MicroStrategy, is associated with an average salary above $120,000.
+
+Analysis of the Most In-Demand Data Analyst Skills
+
+This dataset reveals an important relationship between skill demand and average salary in the data analyst job market. While some specialized technologies command higher average salaries, widely requested skills such as Python, Tableau, and R remain central to the profession.
+
+Go leads the salary ranking at $115,320, while Python has the highest demand, appearing in 236 job postings. This distinction highlights an important consideration: the skills associated with the highest salaries are not necessarily the ones employers request most frequently.
+
+The following analysis explores the top 25 skills based on demand, salary patterns, and what these findings suggest about the technical requirements of data analyst roles.What the comparison tells us
+
+The chart highlights three distinct patterns:
+
+High demand, moderate salary: Python and Tableau are frequently requested, but their average salaries are below those of several specialized technologies.
+
+Lower demand, higher salary: Go, Hadoop, and BigQuery have relatively fewer postings but higher average salaries.
+
+High demand, competitive salary: Snowflake, Azure, and AWS combine substantial demand with average salaries above $108,000.
+
+This suggests that salary and demand do not move in lockstep. However, the data alone cannot establish whether specialization, seniority, industry, or other factors explain the differences.<img width="1055" height="506" alt="image" src="https://github.com/user-attachments/assets/a157e288-8b49-4f7b-92fa-5d17ec8b451d" />
+<img width="990" height="581" alt="image" src="https://github.com/user-attachments/assets/32c642ea-694f-41c6-a308-4ab90e8e6e51" />
+<img width="966" height="452" alt="image" src="https://github.com/user-attachments/assets/c88533ef-f202-4099-a7fd-4d7d2f09e51e" />5. Five major takeaways
+
+Python and Tableau are the most frequently requested skills. Their demand counts of 236 and 230 make them prominent foundations in this dataset.
+
+High salary does not necessarily mean high demand. Go ranks first in average salary but appears in only 27 postings, compared with Python's 236.
+
+Cloud technologies combine demand and competitive compensation. Snowflake, Azure, and AWS are represented in more than 30 postings each, with average salaries exceeding $108,000.
+
+Data analyst roles encompass a broad technical skill set. Programming, visualization, cloud computing, data warehousing, and big data processing all feature in the results.
+
+The most useful career insights come from considering salary and demand together. A skill's average salary alone does not show how frequently employers request it or how many opportunities are available.
+
