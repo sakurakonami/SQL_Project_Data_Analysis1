@@ -4,6 +4,8 @@ This project explores the data analyst job market through SQL-driven analysis of
 
 Click the link to investigate the SQL queries here: [Project_sql folder](/Project_sql/)
 
+Checkout my work process in the google Document File [View the project documentation (PDF)](/Project_sql/SQL%20PROJECT.pdf)
+
 # Background
 
 This project was created to analyze the data analyst job market as a tool to display the top in demand skills, top paying skillset, finding the most optimal opportunities. 
