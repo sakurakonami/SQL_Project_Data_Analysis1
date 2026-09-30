@@ -17,6 +17,8 @@ The questions I wanted to answer through my SQL queries were:
 4.) Which skills are associated with higher salaries?
 5.) What are the most optimal skills to learn?
 
+<img width="357" height="257" alt="image" src="https://github.com/user-attachments/assets/f6ec063d-7efa-4c7f-a9f9-6638be79b888" />
+
 # Tools Utilized
 
 I harnessed the power of several key tools throughout this project leveraging them to complete my project:
@@ -50,6 +52,8 @@ Seniority Commands Premium Pay: A clear pattern emerges where roles with senior 
 
 **Job Title Variety Reflects Specialization:** The range of titles—from Data Analyst and ERM Data Analyst to Principal Data Analyst and Director—indicates that the field offers multiple career paths and specializations, each with distinct salary implications.
 
+<img width="846" height="477" alt="image" src="https://github.com/user-attachments/assets/d20dc715-19bc-400a-a729-bcf7763c1bd3" />
+<img width="1177" height="392" alt="image" src="https://github.com/user-attachments/assets/18b0d499-4ced-481a-8491-34ce6584d957" />
 
 ## 2. Skills Required for Top-Paying Jobs
 
@@ -67,6 +71,8 @@ Seniority Commands Premium Pay: A clear pattern emerges where roles with senior 
 
 **Skill Combinations Drive Top Salaries:** The highest-paying roles do not rely on a single skill but rather combinations—SQL with Python, cloud platforms with machine learning frameworks, and big data tools with programming languages—indicating that breadth of technical competency is a hallmark of top-earning professionals.
 
+<img width="700" height="545" alt="image" src="https://github.com/user-attachments/assets/7bb7b091-df47-475e-96d4-f2145580b99a" />
+<img width="780" height="507" alt="image" src="https://github.com/user-attachments/assets/5accfe50-a643-430c-87b2-43b651e900f5" />
 
 ## 3. Most In-Demand Skills
 
@@ -82,6 +88,9 @@ Seniority Commands Premium Pay: A clear pattern emerges where roles with senior 
 
 **Foundational Skills Outweigh Specialization:** The top five most in-demand skills are all broadly applicable, general-purpose tools rather than niche technologies. This suggests that building a strong foundation in core analytics tools offers the widest range of job opportunities.
 
+<img width="470" height="617" alt="image" src="https://github.com/user-attachments/assets/780e6fc9-e923-4872-810c-d3cea07560f9" />
+<img width="736" height="322" alt="image" src="https://github.com/user-attachments/assets/78da972a-34d0-4694-b69b-86e61e82b038" />
+<img width="465" height="275" alt="image" src="https://github.com/user-attachments/assets/c38d3207-3682-4423-ac4a-390409ce5d12" />
 
 ## 4. Top Paying Skills
 
@@ -101,10 +110,17 @@ Seniority Commands Premium Pay: A clear pattern emerges where roles with senior 
 
 **Infrastructure and Automation Skills Are Valued:** Linux, Kubernetes, Airflow, and Atlassian all appear on this list with salaries exceeding $125,000, demonstrating that data analysts with infrastructure and workflow automation skills are compensated at a premium.
 
+<img width="760" height="352" alt="image" src="https://github.com/user-attachments/assets/660b437a-b9fe-4233-920f-be5c05d6d4af" />
+<img width="275" height="636" alt="image" src="https://github.com/user-attachments/assets/811b97fe-14d4-4191-97de-1d74be8c72c2" />
+<img width="690" height="371" alt="image" src="https://github.com/user-attachments/assets/ab642704-3288-4c33-92e0-9b62b3f3d94a" />
 
 ## 5. Optimal Skills to Learn
 
 The combined demand and salary analysis identifies skills that offer the strongest balance between market demand and compensation for remote Data Analyst roles:
+
+<img width="815" height="371" alt="image" src="https://github.com/user-attachments/assets/b852a7b4-2842-4b30-bdd2-eeaa827fffa4" />
+<img width="802" height="456" alt="image" src="https://github.com/user-attachments/assets/bd3e16a1-3979-4c2a-806c-dc5d7699f8ba" />
+
 
 **Python and Tableau Lead in Demand:** Python (236 postings) and Tableau (230 postings) are the most frequently requested skills in this dataset. However, their average salaries of $101,397 and $99,288 respectively sit in the middle of the salary range, suggesting that while these skills are essential for getting hired, they alone do not command the highest premiums.
 
@@ -119,6 +135,12 @@ The combined demand and salary analysis identifies skills that offer the stronge
 **Salary and Demand Do Not Move in Lockstep:** The data clearly shows that the most in-demand skills (Python, Tableau, R) do not command the highest salaries, while the highest-paying skills (Go, Confluence, Hadoop) have relatively lower demand. This suggests that career strategy should consider whether the goal is maximum employability, maximum compensation, or a balance of both.
 
 **A Practical Skills Roadmap Emerges:** Based on this analysis, the optimal skills to learn for remote Data Analyst roles are Python and Tableau for demand, combined with Snowflake, Azure, or AWS for salary premium. This combination positions candidates for both high volume of opportunities and competitive compensation.
+
+<img width="922" height="491" alt="image" src="https://github.com/user-attachments/assets/ba176adc-21ed-4e9e-b65f-48f2ad729d1d" />
+<img width="572" height="627" alt="image" src="https://github.com/user-attachments/assets/115b04a6-93e6-4752-a23c-e419c9261aad" />
+
+
+
 
 # What I Learned
 
